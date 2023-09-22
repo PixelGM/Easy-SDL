@@ -1,0 +1,2 @@
+C:\Users\amosp\Desktop\SDl\Game00\Debug\Game.exe
+C:\Users\amosp\Desktop\Easy-SDL\main\Debug\Game.exe
